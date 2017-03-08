@@ -1,1 +1,1 @@
-Example github pages test
+Example github pages
